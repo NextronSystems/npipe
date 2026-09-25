@@ -1,4 +1,4 @@
-module github.com/secDre4mer/npipe
+module github.com/NextronSystems/npipe
 
 go 1.20
 

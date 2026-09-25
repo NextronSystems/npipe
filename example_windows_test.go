@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/secDre4mer/npipe"
+	"github.com/NextronSystems/npipe"
 )
 
 // Use Dial to connect to a server and read messages from it.
